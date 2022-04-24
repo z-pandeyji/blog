@@ -1,0 +1,20 @@
+.input-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+   
+
+}
+.input-wrapper label {
+    font-weight: 500;
+    margin-right: 15px;
+    min-width: 100px;
+}
+.contact-wrapper {
+    margin-top: 50px;
+    text-align: center;
+}
+.contact-wrapper h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
